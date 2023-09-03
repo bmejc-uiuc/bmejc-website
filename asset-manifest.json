@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bmejc-website/static/css/main.073c9b0a.css",
+    "main.js": "/bmejc-website/static/js/main.17867ff3.js",
+    "static/js/787.56dcd2ba.chunk.js": "/bmejc-website/static/js/787.56dcd2ba.chunk.js",
+    "static/media/logo.svg": "/bmejc-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bmejc-website/index.html",
+    "main.073c9b0a.css.map": "/bmejc-website/static/css/main.073c9b0a.css.map",
+    "main.17867ff3.js.map": "/bmejc-website/static/js/main.17867ff3.js.map",
+    "787.56dcd2ba.chunk.js.map": "/bmejc-website/static/js/787.56dcd2ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.17867ff3.js"
+  ]
+}
