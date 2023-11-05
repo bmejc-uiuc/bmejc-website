@@ -4,4 +4,3 @@ Reminder to save your work (save all for all files) when commiting
 NOTE: Sometimes it will not let you commit, so before doing a commit command do "git add ." then the commit command and push right after
 2. Commiting: git commit -m "insert message here"
 3. Pushing - pushes code to github, always do this after committing: git push
-
