@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'; // had to uninstall and reinstall to allow for Switch component
 import Services from './components/pages/Services';
-import Products from './components/pages/Products';
+import Resources from './components/pages/Resources';
 import ContactUs from './components/pages/ContactUs';
 import SignUp from './components/pages/SignUp';
 import Home from './components/pages/Home';
@@ -18,7 +18,7 @@ function App() {
       <Switch> 
       <Route path='/' exact component={Home} />
         <Route path='/services' exact component={Services} />
-        <Route path='/products' exact component={Products} />
+        <Route path='/resources' exact component={Resources} />
         <Route path='/contact-us' exact component={ContactUs} />
         <Route path='/sign-up' exact component={SignUp} />
         <Route path='/marketing' exact component={Marketing} />
