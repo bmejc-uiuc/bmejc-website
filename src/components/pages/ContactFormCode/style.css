@@ -1,8 +1,8 @@
 * {
     font-family: Arial;
 }
-body {
-    background-image: url("images/mountains.jpg");
+body { 
+    background-image: url('mountains.jpg'); 
     margin: 0;
 }
 

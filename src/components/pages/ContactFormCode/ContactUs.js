@@ -1,4 +1,11 @@
-//Get data
+import React from 'react';
+// import '../../App.css';
+import './style.css';
+import { keyboard } from '@testing-library/user-event/dist/keyboard';
+
+export default function ContactUs() {
+  return <h1 className='contact-us'>CONTACT US</h1>;
+}
 const nameInput = document.querySelector("#name");
 const email = document.querySelector("#email");
 const message = document.querySelector("#message");
@@ -22,8 +29,7 @@ function validateForm(){
         email.classList.add("error-border");
         errorFlag = true;
     }
-
-    if(message.value,length < 1){
+    if(message.value.length < 1){ // why is there an error here, changed from comma -> period
         errorNodes[2].innerText = ("Please enter a message");
         message.classList.add("error-border");
         errorFlag = true;

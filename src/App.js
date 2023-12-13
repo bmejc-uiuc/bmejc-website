@@ -3,12 +3,12 @@ import './App.css';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'; // had to uninstall and reinstall to allow for Switch component
 import Calendar from './components/pages/Calendar';
-import Resources from './components/pages/Resources';
-import ContactUs from './components/pages/ContactUs';
+import Resources from './components/pages/Resources/Resources';
 import SignUp from './components/pages/SignUp';
 import Home from './components/pages/Home';
-import Opportunities from './components/pages/Opportunities';
-import MeetingArchive from './components/pages/MeetingArchive';
+import Opportunities from './components/pages/Resources/Opportunities';
+import MeetingArchive from './components/pages/Resources/MeetingArchive';
+import ContactUs from './components/pages/ContactFormCode/ContactUs';
 
 
 function App() {
