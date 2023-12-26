@@ -16,7 +16,7 @@ body {
 form {
     max-width: 550px;
     width: 90%;
-    background: white;
+    background: rgb(166, 28, 28);
     margin: 17vh auto 0 auto;
     padding: 40px;
     border-radius: 3px;
@@ -25,7 +25,7 @@ form {
 
 h1 {
     margin: 0;
-    text-align: enter;
+    text-align: center;
 }
 
 label {
@@ -40,7 +40,7 @@ input, textarea {
     outline: none;
     resize: none;
     border: none;
-    border-bottom: 1px solid #D3D3D3;
+    border-bottom: 1px solid #af2626;
 }
 
 input[type="text"]:focus, textarea:focus {
@@ -64,7 +64,7 @@ input[type="submit"] {
     width: 90%;
     max-width: 200px;
     background: linear-gradient(to right, rgb(255,0,106));
-    color: white;
+    color: rgb(150, 8, 8);
     font-size: 17px;
     cursor: pointer;
     border-radius: 3px;

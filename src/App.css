@@ -18,9 +18,8 @@
     justify-content: center;
     font-size: 3rem;
   }
-  
   .home {
-    background-image: url('./images/img-1.jpg');
+    /* insert background image to each: background-image: url('./images/img-1.jpg'); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -29,7 +28,6 @@
   }
   
   .calendar {
-    background-image: url('./images/img-2.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,7 +36,6 @@
   }
   
   .resources {
-    background-image: url('./images/img-3.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -47,7 +44,6 @@
   }
   
   .contact-us {
-    background-image: url('./images/img-4.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -56,7 +52,6 @@
   }
   
   .sign-up {
-    background-image: url('./images/img-7.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -65,7 +60,6 @@
   }
   
   .meeting-archives {
-    background-image: url('./images/img-6.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -74,7 +68,6 @@
   }
   
   .opportunities {
-    background-image: url('./images/img-5.jpg');
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;

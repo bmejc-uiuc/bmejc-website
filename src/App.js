@@ -8,7 +8,7 @@ import SignUp from './components/pages/SignUp';
 import Home from './components/pages/Home';
 import Opportunities from './components/pages/Resources/Opportunities';
 import MeetingArchive from './components/pages/Resources/MeetingArchive';
-import ContactUs from './components/pages/ContactFormCode/ContactUs';
+import ContactUs from './components/pages/ContactForm/ContactUs';
 
 
 function App() {
